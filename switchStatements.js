@@ -25,7 +25,7 @@ function readLine() {
 function getLetter(s) {
     let letter;
     let char = s.charAt(0); 
-    switch(char) {
+    switch(char) {  //switch statements
         case "a":
         case "e":
         case "i":
